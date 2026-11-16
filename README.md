@@ -6,8 +6,6 @@ I'm currently working at **Oracle Financial Services Software (OFSS)**, building
 
 Interested in backend engineering, problem-solving and building reliable software.
 
-[🌐 Portfolio](https://vivek-sharma.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/vivek-sharma-776b2424a/)
-
 ---
 
 ### 🛠️ Tech Stack
@@ -42,7 +40,7 @@ Data Structures & Algorithms · Spring Boot · System Design
 
 Interested in collaborating, discussing technology, or exploring opportunities? Feel free to reach out!
 
-[💼 LinkedIn](https://www.linkedin.com/in/vivek-sharma-776b2424a/) · [✉️ Email Me](mailto:vivekksharma369@gmail.com)
+[🌐 Portfolio](https://vivek-sharma.pages.dev/) · [💼 LinkedIn](https://www.linkedin.com/in/vivek-sharma-776b2424a/) · [✉️ Email](mailto:vivekksharma369@gmail.com)
 
 ---
 
