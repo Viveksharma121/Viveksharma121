@@ -6,7 +6,7 @@ I'm currently working at **Oracle Financial Services Software (OFSS)**, building
 
 Interested in backend engineering, problem-solving and building reliable software.
 
-[🌐 Portfolio](https://vivek-sharma.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/vivek-sharma-776b2424a/) · [GitHub](https://github.com/Viveksharma121)
+[🌐 Portfolio](https://vivek-sharma.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/vivek-sharma-776b2424a/)
 
 ---
 
